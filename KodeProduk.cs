@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static modul4_103022300058.FanLaptop;
 
 namespace modul4_103022300058
 {
@@ -15,5 +16,6 @@ namespace modul4_103022300058
             return kodeproduk[(int)produk];
         }
 
+        
     }
 }
