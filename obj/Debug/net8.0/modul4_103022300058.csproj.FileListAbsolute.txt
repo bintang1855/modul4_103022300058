@@ -1,0 +1,15 @@
+D:\mod4\modul4_103022300058\bin\Debug\net8.0\modul4_103022300058.exe
+D:\mod4\modul4_103022300058\bin\Debug\net8.0\modul4_103022300058.deps.json
+D:\mod4\modul4_103022300058\bin\Debug\net8.0\modul4_103022300058.runtimeconfig.json
+D:\mod4\modul4_103022300058\bin\Debug\net8.0\modul4_103022300058.dll
+D:\mod4\modul4_103022300058\bin\Debug\net8.0\modul4_103022300058.pdb
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.AssemblyInfoInputs.cache
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.AssemblyInfo.cs
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.csproj.CoreCompileInputs.cache
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.sourcelink.json
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.dll
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\refint\modul4_103022300058.dll
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.pdb
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\modul4_103022300058.genruntimeconfig.cache
+D:\mod4\modul4_103022300058\obj\Debug\net8.0\ref\modul4_103022300058.dll

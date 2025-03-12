@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{74C90468-EBFD-4981-9495-74466F6D8C16}|modul4_103022300058.csproj|d:\\mod4\\modul4_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74C90468-EBFD-4981-9495-74466F6D8C16}|modul4_103022300058.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C90468-EBFD-4981-9495-74466F6D8C16}|modul4_103022300058.csproj|d:\\mod4\\modul4_103022300058\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C90468-EBFD-4981-9495-74466F6D8C16}|modul4_103022300058.csproj|solutionrelative:kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodeProduk.cs",
+              "DocumentMoniker": "D:\\mod4\\modul4_103022300058\\KodeProduk.cs",
+              "RelativeDocumentMoniker": "KodeProduk.cs",
+              "ToolTip": "D:\\mod4\\modul4_103022300058\\KodeProduk.cs",
+              "RelativeToolTip": "KodeProduk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:55:05.961Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,18 +45,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\mod4\\modul4_103022300058\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T23:44:15.999Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
